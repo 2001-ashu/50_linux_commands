@@ -1,0 +1,61 @@
+ls-list the files and directoriesin the current directory.
+cd-change the current directory.
+mkdir-create new directory
+rmdir-remove directory
+pwd-print the current working directory.
+cp-copy files or directory
+[cp source file destination folder]
+mv-move or rename files or directories.
+[mv source file destination folder]
+rm-remove files or directory.
+touch-create a new empty file or update te timestamp of an existing file.
+cat-concatenate and display files.
+man-manual for a command.
+htop-an interactive process viewer and system monitor.
+chmod-change the permission of a file or directory.
+Owner			Group			Public
+Read(4)			Read(4)			Read(4)
+Write(6)		Write(6)		Write(6)
+Execute(7)		Execute(7)		Execute(7)
+chown-change the owner of a file or directory.
+chown new_owner example.txt
+tar-create or extract compressed archive files
+gzip-compress files
+[gzip file.txt]
+gunzip-decompress compressed files.
+ssh-connect to a remote server securely.
+scp-securely copy files between systems.
+ping-test network connectivity.
+ifconfig-display or configure network interfaces.
+netstat-display network connection information.
+route-view of configure network routing tables
+top-display system resources usage and processes.
+ps-Display inforamtion about running processes.
+kill-terminate the processes.
+systemctl-control system services and settings.
+[systemctl start nginx]
+[systemctl status  nginx]
+[systemctl stop  nginx]
+service-countrol sytem services.
+useradd-add a new user to the system.
+passwd-change the password for a user.
+userdel-delete a user from the system.
+su-switch user to become another user.
+sudo-excute a command as another user or with elevated privileges.
+uptime-display disk space usage.
+df-display disk space usage.
+du-display disk usage by file or directory.
+mount-munt the file system.
+unmount-unmount a file system.
+date-dislay or set the system date and time.
+whoami-display the current user name.
+which-locate a program or command in the system path.
+finger-displays all the information about a user.
+uname-display sytem information.
+history-display a list of previouly excuted commands.
+echo-display text or variables to the console.
+tee-redirect output to both a file and the console.
+locate-locate any file on the sytem.
+sort-sort lines of text 
+uniq-remove duplicate lines from a file or input.
+head/tail-display the first/last few lines of a file or input.
